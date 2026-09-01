@@ -14,7 +14,7 @@ I enjoy understanding how software works beyond just writing code, from architec
 
 Currently, I am continuing to develop my skills as a software engineer while looking for opportunities to apply them in real-world software development.
 
-## Programming Languages\
+## Programming Languages
 **Java, JavaScript, Python, C, SQL**
 
 ## Projects
