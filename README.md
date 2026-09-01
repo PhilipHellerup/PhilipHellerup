@@ -1,4 +1,6 @@
-<h3 align="center"><b>Philip Hellerup</b></h3>
+<p align="center">
+  <img src="assets/philip-hellerup-title.svg" alt="Philip Hellerup" width="520">
+</p>
 
 <p align="center">
   <b>Software Engineering Student at Aalborg University</b><br>
