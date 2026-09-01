@@ -1,7 +1,6 @@
-
----
-
-<h2 align="center">Philip Hellerup</h2>
+<p align="center">
+  <big><big><strong>Philip Hellerup</strong></big></big>
+</p>
 
 <p align="center">
   <strong>Software Engineering Student at Aalborg University</strong><br>
