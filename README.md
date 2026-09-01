@@ -1,9 +1,9 @@
 <p align="center">
-  <big><big><strong>Philip Hellerup</strong></big></big>
+  <img src="assets/name.svg" alt="Philip Hellerup" width="360">
 </p>
 
 <p align="center">
-  <strong>Software Engineering Student at Aalborg University</strong><br>
+  <b>Software Engineering Student at Aalborg University</b><br>
   Registered Scrum Master
 </p>
 
