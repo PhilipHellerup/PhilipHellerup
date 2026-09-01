@@ -21,21 +21,16 @@ I enjoy understanding how software works beyond just writing code, from architec
 
 Currently, I am continuing to develop my skills as a software engineer while looking for opportunities to apply them in real-world software development.
 
-## Programming Languages
+## University Projects
 
-`Java` · `JavaScript` · `Python` · `C` · `SQL`
+### [T4bl - Domain-Specific Language](https://github.com/PhilipHellerup/T4BL-Domain-Specific-Language-for-Data-Transformation)
+Domain-specific language for readable and reproducible CSV data transformation.
 
-## Projects
+### [Bicycle Repair Management System](https://github.com/PhilipHellerup/Bicycle-Repair-Management-System-for-Performsport)
+Full-stack repair management system developed in collaboration with Performsport.
 
-| Project | |
-| --- | --- |
-| [**T4bl - Domain-Specific Language**](https://github.com/PhilipHellerup/T4BL-Domain-Specific-Language-for-Data-Transformation) | Java |
-| [**Bicycle Repair Management System**](https://github.com/PhilipHellerup/Bicycle-Repair-Management-System-for-Performsport) | Full-Stack |
-| [**Browser-Based Grid Computing Platform**](https://github.com/PhilipHellerup/Browser-Based-Grid-Computing-Platform) | Distributed Computing |
-| [**Drone Route Optimization**](https://github.com/PhilipHellerup/Drone-Route-Optimization) | C |
+### [Browser-Based Grid Computing Platform](https://github.com/PhilipHellerup/Browser-Based-Grid-Computing-Platform)
+Distributed browser-based computing platform for SHA-512 password auditing.
 
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/philiphellerup/">LinkedIn</a>
-</p>
+### [Drone Route Optimization](https://github.com/PhilipHellerup/Drone-Route-Optimization)
+Branch and Bound route optimization for solving the Traveling Salesman Problem in C.
