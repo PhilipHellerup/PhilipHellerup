@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="86" viewBox="0 0 900 86" role="img" aria-labelledby="title desc">
   <title id="title">Philip Hellerup</title>
   <desc id="desc">Centered profile title for a GitHub README</desc>
+
   <style>
     text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
@@ -9,9 +10,13 @@
       letter-spacing: -1.2px;
       fill: #1f2328;
     }
+
     @media (prefers-color-scheme: dark) {
-      text { fill: #f0f6fc; }
+      text {
+        fill: #f0f6fc;
+      }
     }
   </style>
-  <text x="450" y="82" text-anchor="middle">Philip Hellerup</text>
+
+  <text x="450" y="63" text-anchor="middle">Philip Hellerup</text>
 </svg>
