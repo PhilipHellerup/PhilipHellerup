@@ -17,7 +17,7 @@
 
     .line {
       font-size: 23px;
-      font-weight: 700;
+      font-weight: 400;
     }
 
     @media (prefers-color-scheme: dark) {
