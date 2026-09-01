@@ -3,11 +3,6 @@
 </p>
 
 <p align="center">
-  <b>Software Engineering Student at Aalborg University</b><br>
-  Registered Scrum Master
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/philiphellerup/">LinkedIn</a>
 </p>
 
