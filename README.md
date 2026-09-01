@@ -1,4 +1,4 @@
-<h3 align="center">Philip Hellerup</h3>
+<h2 align="center">Philip Hellerup</h2>
 
 <p align="center">
   <strong>Software Engineering Student at Aalborg University</strong><br>
@@ -20,6 +20,8 @@ Through university projects and independent development, I have gained experienc
 I enjoy understanding how software works beyond just writing code, from architecture and data structures to language semantics and system design.
 
 Currently, I am continuing to develop my skills as a software engineer while looking for opportunities to apply them in real-world software development.
+
+---
 
 <h3>University Projects</h3>
 
