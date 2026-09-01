@@ -1,16 +1,28 @@
-## Hi there 👋
+# Philip Hellerup
+Software Engineering student at Aalborg University with experience in full-stack development, distributed systems, algorithms, and programming language design.
 
-<!--
-**PhilipHellerup/PhilipHellerup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently focused on developing my skills as a software engineer through university projects and independent software development.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**\
+Java, JavaScript, Python, C, SQL.
+
+**Technologies:**\
+Spring Boot, Node.js, Express.js, PostgreSQL, Docker, Git.
+
+## Selected Projects
+- **T4BL: Domain-Specific Language**  
+  A Java-based DSL and tree-walking interpreter for structured data transformation.
+
+- **Bicycle Repair Management System**  
+  Full-stack repair management platform developed in collaboration with Performsport.
+
+- **Browser-Based Grid Computing Platform**  
+  Distributed browser computing system for SHA-512 password auditing.
+
+- **Drone Route Optimization**  
+  C implementation of Branch and Bound for solving the Traveling Salesman Problem.
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/philiphellerup)
