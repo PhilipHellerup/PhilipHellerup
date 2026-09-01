@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+<h3>About Me</h3>
 
 I am a Software Engineering student at Aalborg University with a strong interest in designing and building reliable software systems.
 
@@ -21,11 +21,7 @@ I enjoy understanding how software works beyond just writing code, from architec
 
 Currently, I am continuing to develop my skills as a software engineer while looking for opportunities to apply them in real-world software development.
 
-## Programming Languages
-
-`Java` · `JavaScript` · `Python` · `C` · `SQL`
-
-## University Projects
+<h3>University Projects</h3>
 
 > **[T4bl: Domain-Specific Language for Data Transformation](https://github.com/PhilipHellerup/T4BL-Domain-Specific-Language-for-Data-Transformation)**  
 > <small><strong>4th Semester | Grade 12</strong></small>  
