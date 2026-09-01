@@ -1,4 +1,4 @@
-<h1 align="center">Philip Hellerup</h1>
+<h3 align="center">Philip Hellerup</h3>
 
 <p align="center">
   <strong>Software Engineering Student at Aalborg University</strong><br>
@@ -21,16 +21,24 @@ I enjoy understanding how software works beyond just writing code, from architec
 
 Currently, I am continuing to develop my skills as a software engineer while looking for opportunities to apply them in real-world software development.
 
+## Programming Languages
+
+`Java` · `JavaScript` · `Python` · `C` · `SQL`
+
 ## University Projects
 
-### [T4bl - Domain-Specific Language](https://github.com/PhilipHellerup/T4BL-Domain-Specific-Language-for-Data-Transformation)
-Domain-specific language for readable and reproducible CSV data transformation.
+> **[T4bl: Domain-Specific Language for Data Transformation](https://github.com/PhilipHellerup/T4BL-Domain-Specific-Language-for-Data-Transformation)**  
+> <small><strong>4th Semester | Grade 12</strong></small>  
+> Designed and implemented a Java-based DSL for CSV data transformation targeted at non-technical users. Defined the language with an unambiguous EBNF grammar and operational semantics and built a JavaCC lexer/parser, AST, type inference, scope handling, and tree-walking interpreter.
 
-### [Bicycle Repair Management System](https://github.com/PhilipHellerup/Bicycle-Repair-Management-System-for-Performsport)
-Full-stack repair management system developed in collaboration with Performsport.
+> **[Bicycle Repair Management System for Performsport](https://github.com/PhilipHellerup/Bicycle-Repair-Management-System-for-Performsport)**  
+> <small><strong>3rd Semester | Grade 12</strong></small>  
+> Developed a full-stack repair management system for Performsport using Java, Spring Boot, PostgreSQL, Thymeleaf, JPA, and Docker. Applied layered architecture and validated the solution through unit, integration, and user testing.
 
-### [Browser-Based Grid Computing Platform](https://github.com/PhilipHellerup/Browser-Based-Grid-Computing-Platform)
-Distributed browser-based computing platform for SHA-512 password auditing.
+> **[Browser-Based Grid Computing Platform](https://github.com/PhilipHellerup/Browser-Based-Grid-Computing-Platform)**  
+> <small><strong>2nd Semester | Grade 12</strong></small>  
+> Built a distributed web platform using JavaScript, Node.js, Express.js, and WebSockets to divide SHA-512 password-auditing workloads among browser clients. Included a custom task queue, JWT authentication, database integration, and a Chrome extension.
 
-### [Drone Route Optimization](https://github.com/PhilipHellerup/Drone-Route-Optimization)
-Branch and Bound route optimization for solving the Traveling Salesman Problem in C.
+> **[Drone Route Optimization](https://github.com/PhilipHellerup/Drone-Route-Optimization)**  
+> <small><strong>1st Semester | Grade 12</strong></small>  
+> Implemented a graph-based route optimization system in C using Branch and Bound to solve the Traveling Salesman Problem for medical drone delivery.
