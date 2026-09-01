@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/philip-hellerup-title.svg" alt="Philip Hellerup" width="520">
+  <img src="assets/profile-header.svg" alt="Philip Hellerup" width="520">
 </p>
 
 <p align="center">
